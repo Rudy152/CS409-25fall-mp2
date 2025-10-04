@@ -1,0 +1,12 @@
+Date,Time,AI Tool,Prompt/Question,Response Summary,Files Affected
+2025-10-04,Morning,ChatGPT,"How to structure a React TypeScript project with multiple views?","GPT suggested component-based architecture with separate folders for components, services, and types. Used this as inspiration for project structure.","Project structure planning"
+2025-10-04,Morning,ChatGPT,"Best practices for organizing React Router routes in TypeScript","GPT explained routing patterns and basename configuration for GitHub Pages deployment. Implemented routes based on this guidance.","App.tsx"
+2025-10-04,Afternoon,ChatGPT,"How to implement real-time search filtering in React?","GPT explained using useState and useEffect hooks for filtering. Applied this concept to create search functionality.","SearchView.tsx"
+2025-10-04,Afternoon,ChatGPT,"CSS design ideas for movie directory application","GPT suggested gradient backgrounds, card layouts, and hover effects. Used these ideas as inspiration for styling.","All CSS files"
+2025-10-04,Afternoon,ChatGPT,"How to handle API calls in React with TypeScript and Axios?","GPT provided examples of typed API service patterns. Created my own API service based on this pattern.","tmdbApi.ts"
+2025-10-04,Evening,ChatGPT,"React Router v6 vs v7 compatibility issues","GPT explained version differences and suggested using v6 for stability. Chose v6 based on this advice.","package.json"
+2025-10-04,Evening,ChatGPT,"How to fix useEffect dependency warnings?","GPT explained useCallback pattern for optimization. Refactored my code using this approach.","SearchView.tsx, GalleryView.tsx, DetailView.tsx"
+2025-10-04,Evening,ChatGPT,"GitHub Pages deployment configuration for React apps","GPT explained homepage and basename settings needed for deployment. Applied these configurations to my project.","package.json, App.tsx"
+2025-10-04,Night,ChatGPT,"TypeScript interface design for movie data","GPT suggested interface structure for API responses. Designed my Movie types based on these suggestions.","Movie.ts"
+2025-10-04,Night,ChatGPT,"Debugging npm ci error with missing dependencies","GPT explained package-lock.json sync issues. Ran npm install to resolve based on this guidance.","package-lock.json"
+
